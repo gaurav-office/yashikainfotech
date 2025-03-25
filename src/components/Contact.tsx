@@ -179,8 +179,7 @@ export function Contact() {
                   <div>
                     <h4 className="font-medium mb-1">Email</h4>
                     <p className="text-marketing-100">
-                      info@yashikainfotech.com<br />
-                      support@yashikainfotech.com
+                    contact@yashikainfotech.com<br />
                     </p>
                   </div>
                 </div>
