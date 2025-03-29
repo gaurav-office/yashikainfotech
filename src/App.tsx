@@ -7,6 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState } from "react";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
+import Policy from "@/components/Policy";
 
 const App = () => {
   // Create QueryClient with useState to ensure it's only created once per component instance
